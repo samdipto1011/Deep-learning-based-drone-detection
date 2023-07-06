@@ -1,5 +1,5 @@
-Deep-learning-based-drone-detection
-Cite:
+
+Cite:\n
 MDPI and ACS Style
 Alam, S.S.; Chakma, A.; Rahman, M.H.; Bin Mofidul, R.; Alam, M.M.; Utama, I.B.K.Y.; Jang, Y.M. RF-Enabled Deep-Learning-Assisted Drone Detection and Identification: An End-to-End Approach. Sensors 2023, 23, 4202. https://doi.org/10.3390/s23094202
 
